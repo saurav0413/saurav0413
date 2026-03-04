@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on java development and aiml<br>👯 I’m looking to collaborate on java projects and development <br>🤝 I’m looking for help with networking and connecting to people who can help me for the same.
+🔭 I’m currently working on dsa and aiml<br>👯 I’m looking to collaborate on full scale aiml projects and development <br>🤝 I’m looking for help with networking and connecting to people who can help me for the same.
 
 
 ## 🌐 Socials:
